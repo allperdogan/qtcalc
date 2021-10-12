@@ -6,40 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/alper/CLionProjects/qtcalc/cmake-build-debug/qtcalc_autogen/EWIEGA46WW/moc_qtcalc.cpp
-../../../qtcalc.h
-/home/alper/CLionProjects/qtcalc/qtcalc.h
-QtCore/qbytearray.h
--
-QtCore/qmetatype.h
--
-
-/home/alper/CLionProjects/qtcalc/cmake-build-debug/qtcalc_autogen/EWIEGA46WW/moc_secondcalc.cpp
-../../../secondcalc.h
-/home/alper/CLionProjects/qtcalc/secondcalc.h
-QtCore/qbytearray.h
--
-QtCore/qmetatype.h
--
-
-/home/alper/CLionProjects/qtcalc/cmake-build-debug/qtcalc_autogen/mocs_compilation.cpp
-EWIEGA46WW/moc_qtcalc.cpp
-/home/alper/CLionProjects/qtcalc/cmake-build-debug/qtcalc_autogen/EWIEGA46WW/moc_qtcalc.cpp
-EWIEGA46WW/moc_secondcalc.cpp
-/home/alper/CLionProjects/qtcalc/cmake-build-debug/qtcalc_autogen/EWIEGA46WW/moc_secondcalc.cpp
-
-/home/alper/CLionProjects/qtcalc/main.cpp
-qtcalc.h
-/home/alper/CLionProjects/qtcalc/qtcalc.h
-QDebug
-/home/alper/CLionProjects/qtcalc/QDebug
-QApplication
--
-QLocale
--
-QTranslator
--
-
 /home/alper/CLionProjects/qtcalc/qtcalc.cpp
 qtcalc.h
 /home/alper/CLionProjects/qtcalc/qtcalc.h
@@ -58,31 +24,11 @@ QWidget
 secondcalc.h
 /home/alper/CLionProjects/qtcalc/secondcalc.h
 
-/home/alper/CLionProjects/qtcalc/secondcalc.cpp
-secondcalc.h
-/home/alper/CLionProjects/qtcalc/secondcalc.h
-ui_secondcalc.h
-/home/alper/CLionProjects/qtcalc/ui_secondcalc.h
-qtcalc.h
-/home/alper/CLionProjects/qtcalc/qtcalc.h
-
 /home/alper/CLionProjects/qtcalc/secondcalc.h
 QWidget
 -
 qtcalc.h
 /home/alper/CLionProjects/qtcalc/qtcalc.h
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/QDebug
-qdebug.h
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qdebug.h
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/QLocale
-qlocale.h
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qlocale.h
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/QTranslator
-qtranslator.h
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qtranslator.h
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/QVariant
 qvariant.h
@@ -684,12 +630,6 @@ QtCore/qlocale.h
 QtCore/qscopedpointer.h
 -
 stdio.h
--
-
-/usr/include/x86_64-linux-gnu/qt5/QtCore/qtranslator.h
-QtCore/qobject.h
--
-QtCore/qbytearray.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qtypeinfo.h
@@ -1335,20 +1275,6 @@ QtGui/qevent.h
 -
 
 qtcalc_autogen/include/ui_qtcalc.h
-QtCore/QVariant
--
-QtWidgets/QApplication
--
-QtWidgets/QLineEdit
--
-QtWidgets/QPushButton
--
-QtWidgets/QTextEdit
--
-QtWidgets/QWidget
--
-
-qtcalc_autogen/include/ui_secondcalc.h
 QtCore/QVariant
 -
 QtWidgets/QApplication
