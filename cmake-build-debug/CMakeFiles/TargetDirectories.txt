@@ -1,0 +1,4 @@
+/home/alper/CLionProjects/qtcalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alper/CLionProjects/qtcalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alper/CLionProjects/qtcalc/cmake-build-debug/CMakeFiles/qtcalc.dir
+/home/alper/CLionProjects/qtcalc/cmake-build-debug/CMakeFiles/qtcalc_autogen.dir
